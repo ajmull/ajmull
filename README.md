@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajmull
 - 👀 I’m interested in coding, fencing (the sport), and physics
 - 🌱 I’m currently learning Rust and Python.
-- 💞️ I’m looking to collaborate on Python projects!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I keep chickens!
 
